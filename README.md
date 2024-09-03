@@ -1,0 +1,2 @@
+# KLADE
+KLADE(KAINAT LITE ADVANCE DESKTOP ENVIRONMENT) is a light desktop environment 
