@@ -1,7 +1,7 @@
 # KLADE
 KLADE(KAINAT LITE ADVANCE DESKTOP ENVIRONMENT) is a light desktop environment 
 
-###install
+### install
 debian:
 run this in terminal 
 ```
