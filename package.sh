@@ -1,2 +1,2 @@
 #!/bin/bash
-pack=openbox nano mpv mousepad xfce 
+pack="openbox nano mpv mousepad xfce" 
