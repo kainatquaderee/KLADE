@@ -1,2 +1,2 @@
 #!/bin/bash
-pack="openbox mpv mousepad xfce" 
+pack="openbox mpv mousepad xfce4" 
