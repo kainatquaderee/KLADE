@@ -1,4 +1,4 @@
 #!/bin/bash
-startxfce4; 
-sleep 3;
+startxfce4&
+sleep 10;
 openbox --replace
