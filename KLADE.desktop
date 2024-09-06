@@ -2,7 +2,7 @@
 Version=1.0
 Name=KLADE Session
 Comment=Use this session to run KLADE as your desktop environment
-Exec=startxfce4;sleep 3; "openbox --replace"
+Exec=startKLADE
 Icon=
 Type=Application
 DesktopNames=KLADE
